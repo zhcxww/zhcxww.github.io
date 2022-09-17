@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Software and Theory at [School of Computer Science](http://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](http://minghuizhou.github.io) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/). Before that, I received my Bachelor’s Degree in Software Engineering at [Soochow University](https://www.suda.edu.cn/) in 2022. My research interests mainly focus on mining software repository and empirical studies for open-source software ecosystems.
+I am a Ph.D. student in Computer Software and Theory at [School of Computer Science](http://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), advised by [Minghui Zhou](http://minghuizhou.github.io) at [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/). Before that, I received my Bachelor’s Degree in Software Engineering at [Soochow University](https://www.suda.edu.cn/) in 2022. My research interests mainly focus on mining software repository and empirical studies for open-source software ecosystems.
 
 <span style="color:#6b5d40">Education</span>
 ----------
-- 09/2022~Now, *Peking University*, PhD Candidate in Computer Software and Theory
-- 09/2018~06/2022, *Soochow University*, Bachelor of Software Engineering, advised by Prof. Xiaofang Zhang
+- 09/2022~Now, *Peking University*, PhD student in Computer Software and Theory
+- 09/2018~06/2022, *Soochow University*, Bachelor of Software Engineering, advised by Prof. [Xiaofang Zhang](http://web.suda.edu.cn/xfzhang/)
 
 <span style="color:#6b5d40">Publications</span>
 --------
