@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "CV"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -40,9 +40,9 @@ I am a Ph.D. student in Computer Software and Theory at [School of Computer Scie
 <span style="color:#6b5d40">Awards & Honers</span>
 ---------------
 
-- 2020, National Scholarship, Soochow University
-- 2021, Merit Student of Jiangsu Province, Soochow University
 - 2022, Outstanding Graduate of Jiangsu Province, Soochow University
+- 2021, Merit Student of Jiangsu Province, Soochow University
+- 2020, National Scholarship, Soochow University
 
 
 <span style="color:#6b5d40">Hobbies</span>
