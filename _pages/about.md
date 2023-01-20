@@ -19,13 +19,19 @@ I am a Ph.D. student in Computer Software and Theory at [School of Computer Scie
 --------
 
 **Conference**
-1. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects. <span style="color:#0b5394">(CCF A)</span>**   
-    Wenxin Xiao, Hao He, **Weiwei Xu** , Xin Tan , Jinhao Dong , Minghui Zhou [[PDF](https://dl.acm.org/doi/pdf/10.1145/3510003.3510196)] 
-    In: The 44th International Conference on Software Engineering, May 21-29, 2022, Pittsburgh, PA, USA 
-   
+1. **<span style="color:#0b5394">[ICSE'23 DEMO]</span>LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects**   
+    **Weiwei Xu**, Xin Wu, Runzhi He and Minghui Zhou
+    In:The 45th IEEE/ACM International Conference on Software Engineering, May 14-20, 2023, Melbourne, Australia
+    
 2. **<span style="color:#0b5394">[SANER'23]</span>Characterize Software Release Notes of GitHub Projects: Structure, Writing Style, and Content. <span style="color:#0b5394">(CCF B)</span>**   
     Jianyu Wu, **Weiwei Xu**, Kai Gao, Jingyue Li and Minghui Zhou
     In: The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 21st-24th, 2023, Macao SAR, China
+    
+3. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects. <span style="color:#0b5394">(CCF A)</span>**   
+    Wenxin Xiao, Hao He, **Weiwei Xu** , Xin Tan , Jinhao Dong , Minghui Zhou [[PDF](https://dl.acm.org/doi/pdf/10.1145/3510003.3510196)] 
+    In: The 44th International Conference on Software Engineering, May 21-29, 2022, Pittsburgh, PA, USA 
+   
+ 
 
 
 <!-- <span style="color:#6b5d40">Teaching Experience</span>
