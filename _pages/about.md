@@ -20,11 +20,11 @@ I am a Ph.D. student in Computer Software and Theory at [School of Computer Scie
 
 **Conference**
 1. **<span style="color:#0b5394">[ICSE'23 DEMO]</span>LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects**   
-    **Weiwei Xu**, Xin Wu, Runzhi He and Minghui Zhou
+    **Weiwei Xu**, Xin Wu, Runzhi He and Minghui Zhou[[pdf](https://zhcxww.github.io/files/LicenseRec_DEMO.pdf)]
     In:The 45th IEEE/ACM International Conference on Software Engineering, May 14-20, 2023, Melbourne, Australia
     
 2. **<span style="color:#0b5394">[SANER'23]</span>Characterize Software Release Notes of GitHub Projects: Structure, Writing Style, and Content. <span style="color:#0b5394">(CCF B)</span>**   
-    Jianyu Wu, **Weiwei Xu**, Kai Gao, Jingyue Li and Minghui Zhou
+    Jianyu Wu, **Weiwei Xu**, Kai Gao, Jingyue Li and Minghui Zhou[[pdf](https://zhcxww.github.io/files/SANER23 _final.pdf)]
     In: The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 21st-24th, 2023, Macao SAR, China
     
 3. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects. <span style="color:#0b5394">(CCF A)</span>**   
