@@ -15,7 +15,7 @@ I am a Ph.D. student in Computer Software and Theory at [School of Computer Scie
 - 09/2022~Now, *Peking University*, PhD student in Computer Software and Theory
 - 09/2018~06/2022, *Soochow University*, Bachelor of Software Engineering
 
-<span style="color:#6b5d40">Publications during PhD studies</span>
+<span style="color:#6b5d40">Publications</span>
 --------
 **Conference**
 1. **<span style="color:#0b5394">[ICSE'23 DEMO]</span>LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects**   
@@ -29,11 +29,8 @@ I am a Ph.D. student in Computer Software and Theory at [School of Computer Scie
 3. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects**   
     Wenxin Xiao, Hao He, **Weiwei Xu** , Xin Tan , Jinhao Dong , Minghui Zhou [[PDF](https://dl.acm.org/doi/pdf/10.1145/3510003.3510196)] 
     In: The 44th International Conference on Software Engineering, May 21-29, 2022, Pittsburgh, PA, USA 
-
-<span style="color:#6b5d40">Publications during undergraduate studies</span>
---------
-**Conference**
-1. **<span style="color:#0b5394">[SEKE'21]</span>Multi-granularity code smell detection using deep learning method based on abstract syntax tree.**   
+    
+4. **<span style="color:#0b5394">[SEKE'21]</span>Multi-granularity code smell detection using deep learning method based on abstract syntax tree.**   
     **Weiwei Xu** and Xiaofang Zhang [[PDF](https://ksiresearch.org/seke/seke21paper/paper014.pdf)] 
     In: The 33rd International Conference on Software Engineering and Knowledge Engineering(SEKE), July 1-10, 2021, Pittsburgh, USA
 
