@@ -37,12 +37,12 @@ I am a Ph.D. student in Computer Software and Theory at [School of Computer Scie
    
 
 
-<!-- <span style="color:#6b5d40">Teaching Experience</span>
+<span style="color:#6b5d40">Teaching Experience</span>
 ----------
-- 
+- JAVA Program Design, Teaching Assistant, Spring 2023
 
 
-<span style="color:#6b5d40">Patents</span>
+<!-- <span style="color:#6b5d40">Patents</span>
 ---------
 -  -->
 
