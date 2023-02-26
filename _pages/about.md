@@ -12,14 +12,12 @@ redirect_from:
 
 <span style="color:#6b5d40">Education</span>
 ----------
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
 - 09/2022~Now, *Peking University*, Ph.D. student in Computer Software and Theory
 - 09/2018~06/2022, *Soochow University*, Bachelor of Software Engineering
-<\span>
+
   
 <span style="color:#6b5d40">Publications</span>
 --------
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
 **Conference**
 1. **<span style="color:#0b5394">[ICSE'23 DEMO]</span>LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects**   
     **Weiwei Xu**, Xin Wu, Runzhi He and Minghui Zhou[[PDF](https://zhcxww.github.io/files/LicenseRec_DEMO.pdf)]
@@ -36,13 +34,12 @@ redirect_from:
 4. **<span style="color:#0b5394">[SEKE'21]</span>Multi-granularity code smell detection using deep learning method based on abstract syntax tree.**   
     **Weiwei Xu** and Xiaofang Zhang [[PDF](https://ksiresearch.org/seke/seke21paper/paper014.pdf)] 
     In: The 33rd International Conference on Software Engineering and Knowledge Engineering(SEKE), July 1-10, 2021, Pittsburgh, USA
-<\span>
+
    
 <span style="color:#6b5d40">Teaching Experience</span>
 ----------
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
 - JAVA Program Design, Teaching Assistant, Spring 2023
-<\span>
+
 
 <!-- <span style="color:#6b5d40">Patents</span>
 ---------
@@ -50,14 +47,12 @@ redirect_from:
 
 <span style="color:#6b5d40">Awards & Honers</span>
 ---------------
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+
 - 2022, Outstanding Graduate of Jiangsu Province, Soochow University
 - 2021, Merit Student of Jiangsu Province, Soochow University
 - 2020, National Scholarship, Soochow University
-<\span>
 
 <span style="color:#6b5d40">Hobbies</span>
 ----------------
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
 Fitness and photography
-<\span>
+
