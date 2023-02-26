@@ -12,7 +12,7 @@ I am a Ph.D. student in Computer Software and Theory at [School of Computer Scie
 
 <span style="color:#6b5d40">Education</span>
 ----------
-- 09/2022~Now, *Peking University*, PhD student in Computer Software and Theory
+- 09/2022~Now, *Peking University*, Ph.D. student in Computer Software and Theory
 - 09/2018~06/2022, *Soochow University*, Bachelor of Software Engineering
 
 <span style="color:#6b5d40">Publications</span>
