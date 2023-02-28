@@ -38,7 +38,8 @@ redirect_from:
    
 <span style="color:#6b5d40">Teaching Experience</span>
 ----------
-- JAVA Programming, Teaching Assistant, Spring 2023
+- **JAVA Programming, Teaching Assistant, Spring 2023**
+  School of EECS, Peking University
 
 
 <!-- <span style="color:#6b5d40">Patents</span>
