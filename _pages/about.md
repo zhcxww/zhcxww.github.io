@@ -38,7 +38,7 @@ redirect_from:
    
 <span style="color:#6b5d40">Teaching Experience</span>
 ----------
-- JAVA Program Design, Teaching Assistant, Spring 2023
+- JAVA Programming, Teaching Assistant, Spring 2023
 
 
 <!-- <span style="color:#6b5d40">Patents</span>
