@@ -34,7 +34,10 @@ redirect_from:
 4. **<span style="color:#0b5394">[SEKE'21]</span>Multi-granularity code smell detection using deep learning method based on abstract syntax tree.**   
     **Weiwei Xu** and Xiaofang Zhang [[PDF](https://ksiresearch.org/seke/seke21paper/paper014.pdf)] 
     In: The 33rd International Conference on Software Engineering and Knowledge Engineering(SEKE), July 1-10, 2021, Pittsburgh, USA
-
+**Journal**
+1. **<span style="color:#0b5394">[Journal of Software(软件学报)]</span>Survey on quality of software code comments.（软件中代码注释质量问题研究综述）**   
+    Chao Wang, **Weiwei Xu** and Minghui Zhou
+    In:Journal of Software.
    
 <span style="color:#6b5d40">Teaching Experience</span>
 ----------
