@@ -37,7 +37,7 @@ redirect_from:
     
 
 **Journal**
-1. **<span style="color:#0b5394">[Journal of Software(软件学报)]</span>Survey on quality of software code comments.（软件中代码注释质量问题研究综述）**   
+1. **<span style="color:#0b5394">[Journal of Software (软件学报)]</span>Survey on quality of software code comments.（软件中代码注释质量问题研究综述）**   
     Chao Wang, **Weiwei Xu** and Minghui Zhou
     In:Journal of Software.
    
