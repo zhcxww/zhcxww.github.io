@@ -21,7 +21,7 @@ redirect_from:
 **Conference**
 
 1. **<span style="color:#0b5394">[ASE'23]</span>Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem**   
-    **Weiwei Xu**\*, Hao He\*, Kai Gao He and Minghui Zhou
+    **Weiwei Xu**\*, Hao He\*, Kai Gao and Minghui Zhou
     In:the 38th IEEE/ACM International Conference on Automated Software Engineering, September 11-15, 2023, Luxembourg
 
 2. **<span style="color:#0b5394">[ICSE'23 DEMO]</span>LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects**   
