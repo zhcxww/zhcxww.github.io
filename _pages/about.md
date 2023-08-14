@@ -21,7 +21,7 @@ redirect_from:
 **Conference**
 
 1. **<span style="color:#0b5394">[ASE'23]</span>Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem <span style="color:#0b5394">(CCF A)</span>**   
-    **Weiwei Xu**\*, Hao He\*, Kai Gao and Minghui Zhou
+    **Weiwei Xu**\*, Hao He\*, Kai Gao and Minghui Zhou [[PDF](https://arxiv.org/pdf/2308.05942.pdf)]
     In: the 38th IEEE/ACM International Conference on Automated Software Engineering, September 11-15, 2023, Luxembourg.
    
 3. **<span style="color:#0b5394">[ESEC/FSE'23]</span>How Early Participation Determines Long-Term Sustained Activity in GitHub Projects? <span style="color:#0b5394">(CCF A)</span>**   
