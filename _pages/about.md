@@ -47,7 +47,7 @@ redirect_from:
 
 **Journal**
 1. **<span style="color:#0b5394">[Journal of Software 软件学报]</span>Survey on quality of software code comments.软件中代码注释质量问题研究综述 <span style="color:#0b5394">(中文CCF A)</span>**   
-    Chao Wang, **Weiwei Xu** and Minghui Zhou
+    Chao Wang, **Weiwei Xu** and Minghui Zhou[[PDF](https://zhcxww.github.io/files/jos_codecomment.pdf)]
     In: Journal of Software. Accepted in April 2023.
    
 <span style="color:#6b5d40">Teaching Experience</span>
