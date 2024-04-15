@@ -1,4 +1,4 @@
-![image](https://github.com/zhcxww/zhcxww.github.io/assets/47072999/a9a70692-ccdc-47d9-b6b0-48fc9cc10457)---
+---
 permalink: /
 title: "About Me"
 excerpt: "About me"
