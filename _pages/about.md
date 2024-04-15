@@ -1,4 +1,4 @@
----
+![image](https://github.com/zhcxww/zhcxww.github.io/assets/47072999/a9a70692-ccdc-47d9-b6b0-48fc9cc10457)---
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -20,7 +20,11 @@ redirect_from:
 --------
 **Conference**
 
-1. **<span style="color:#0b5394">[ASE'23]</span>Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem <span style="color:#0b5394">(CCF A)</span>**   
+1. **<span style="color:#0b5394">[FSE'24]</span>PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages <span style="color:#0b5394">(CCF A)</span>**   
+    Kai Gao, **Weiwei Xu**, Wenhao Yang, and Minghui Zhou
+    In: The ACM International Conference on the Foundations of Software Engineering (FSE)
+
+2. **<span style="color:#0b5394">[ASE'23]</span>Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem <span style="color:#0b5394">(CCF A)</span>**   
     **Weiwei Xu**\*, Hao He\*, Kai Gao and Minghui Zhou [[PDF](https://arxiv.org/pdf/2308.05942.pdf)]
     In: the 38th IEEE/ACM International Conference on Automated Software Engineering, September 11-15, 2023, Luxembourg.
    
@@ -46,7 +50,7 @@ redirect_from:
     
 
 **Journal**
-1. **<span style="color:#0b5394">[Journal of Software 软件学报]</span>Survey on quality of software code comments.软件中代码注释质量问题研究综述 <span style="color:#0b5394">(中文CCF A)</span>**   
+8. **<span style="color:#0b5394">[Journal of Software 软件学报]</span>Survey on quality of software code comments.软件中代码注释质量问题研究综述 <span style="color:#0b5394">(中文CCF A)</span>**   
     Chao Wang, **Weiwei Xu** and Minghui Zhou[[PDF](https://zhcxww.github.io/files/jos_codecomment.pdf)]
     In: Journal of Software. Accepted in April 2023.
    
