@@ -20,37 +20,41 @@ redirect_from:
 --------
 **Conference**
 
-1. **<span style="color:#0b5394">[FSE'24]</span>PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages <span style="color:#0b5394">(CCF A)</span>**   
+**<span style="color:#0b5394">[Arxiv'24]</span>A First Look at License Compliance Capability of LLMs in Code Generation**   
+    **Weiwei Xu**, Kai Gao, Hao He and Minghui Zhou [[pdf]](https://arxiv.org/pdf/2408.02487)
+       
+**<span style="color:#0b5394">[FSE'24]</span>PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages <span style="color:#0b5394">(CCF A)</span>**   
     Kai Gao, **Weiwei Xu**, Wenhao Yang, and Minghui Zhou [[pdf]](https://arxiv.org/pdf/2404.16565)
     In: The ACM International Conference on the Foundations of Software Engineering (FSE)
 
-3. **<span style="color:#0b5394">[ASE'23]</span>Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem <span style="color:#0b5394">(CCF A)</span>**   
+**<span style="color:#0b5394">[ASE'23]</span>Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem <span style="color:#0b5394">(CCF A)</span>**   
     **Weiwei Xu**\*, Hao He\*, Kai Gao and Minghui Zhou [[PDF](https://arxiv.org/pdf/2308.05942.pdf)]
     In: the 38th IEEE/ACM International Conference on Automated Software Engineering, September 11-15, 2023, Luxembourg.
    
-4. **<span style="color:#0b5394">[ESEC/FSE'23]</span>How Early Participation Determines Long-Term Sustained Activity in GitHub Projects? <span style="color:#0b5394">(CCF A)</span>**   
+**<span style="color:#0b5394">[ESEC/FSE'23]</span>How Early Participation Determines Long-Term Sustained Activity in GitHub Projects? <span style="color:#0b5394">(CCF A)</span>**   
    Wenxin Xiao, Hao He, **Weiwei Xu**, Yuxia Zhang and Minghui Zhou [[PDF](https://arxiv.org/pdf/2308.06005.pdf)]
     In: 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, San Francisco, USA, 11 - 17 November 2023.
 
-5. **<span style="color:#0b5394">[ICSE'23 DEMO]</span>LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects**   
+**<span style="color:#0b5394">[ICSE'23 DEMO]</span>LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects**   
     **Weiwei Xu**, Xin Wu, Runzhi He and Minghui Zhou[[PDF](https://zhcxww.github.io/files/LicenseRec_DEMO.pdf)]
     In: The 45th IEEE/ACM International Conference on Software Engineering, May 14-20, 2023, Melbourne, Australia.
     
-6. **<span style="color:#0b5394">[SANER'23]</span>Characterize Software Release Notes of GitHub Projects: Structure, Writing Style, and Content <span style="color:#0b5394">(CCF B)</span>**   
+**<span style="color:#0b5394">[SANER'23]</span>Characterize Software Release Notes of GitHub Projects: Structure, Writing Style, and Content <span style="color:#0b5394">(CCF B)</span>**   
     Jianyu Wu, **Weiwei Xu**, Kai Gao, Jingyue Li and Minghui Zhou[[PDF](https://zhcxww.github.io/files/SANER23 _final.pdf)]
     In: The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, March 21st-24th, 2023, Macao SAR, China.
     
-7. **<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects <span style="color:#0b5394">(CCF A)</span>**   
+**<span style="color:#0b5394">[ICSE'22]</span>Recommending Good First Issues in GitHub OSS Projects <span style="color:#0b5394">(CCF A)</span>**   
     Wenxin Xiao, Hao He, **Weiwei Xu** , Xin Tan , Jinhao Dong , Minghui Zhou [[PDF](https://dl.acm.org/doi/pdf/10.1145/3510003.3510196)] 
     In: The 44th International Conference on Software Engineering, May 21-29, 2022, Pittsburgh, PA, USA. 
     
-8. **<span style="color:#0b5394">[SEKE'21]</span>Multi-granularity code smell detection using deep learning method based on abstract syntax tree <span style="color:#0b5394">(CCF C)</span>**   
+**<span style="color:#0b5394">[SEKE'21]</span>Multi-granularity code smell detection using deep learning method based on abstract syntax tree <span style="color:#0b5394">(CCF C)</span>**   
     **Weiwei Xu** and Xiaofang Zhang [[PDF](https://ksiresearch.org/seke/seke21paper/paper014.pdf)] 
     In: The 33rd International Conference on Software Engineering and Knowledge Engineering(SEKE), July 1-10, 2021, Pittsburgh, USA.
     
 
 **Journal**
-8. **<span style="color:#0b5394">[Journal of Software 软件学报]</span>Survey on quality of software code comments.软件中代码注释质量问题研究综述 <span style="color:#0b5394">(中文CCF A)</span>**   
+
+**<span style="color:#0b5394">[Journal of Software 软件学报]</span>Survey on quality of software code comments.软件中代码注释质量问题研究综述 <span style="color:#0b5394">(中文CCF A)</span>**   
     Chao Wang, **Weiwei Xu** and Minghui Zhou[[PDF](https://zhcxww.github.io/files/jos_codecomment.pdf)]
     In: Journal of Software. Accepted in April 2023.
    
