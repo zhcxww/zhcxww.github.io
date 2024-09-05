@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiwei Xu(徐卫伟)"
+title                    : "Weiwei Xu 徐卫伟"
 title_separator          : "-"
 name                     : &name "Weiwei Xu"
 description              : &description "personal description"
