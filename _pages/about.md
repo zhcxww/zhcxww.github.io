@@ -65,9 +65,8 @@ redirect_from:
 
 - **Open Source Software Development, Teaching Assistant, Fall 2024**, 
   School of EECS, Peking University
-<!-- <span style="color:#6b5d40">Patents</span>
----------
--  -->
+
+
 
 <span style="color:#6b5d40">Awards & Honers</span>
 ---------------
