@@ -77,5 +77,5 @@ redirect_from:
 
 <span style="color:#6b5d40">Hobbies</span>
 ----------------
-Fitness and photography
+Fitness, gateball, photography
 
