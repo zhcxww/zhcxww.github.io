@@ -20,7 +20,7 @@ redirect_from:
 --------
 **Conference**
 
-- **<span style="color:#0b5394">[ICSE'25]</span>LiCoEval: Evaluating LLMs on License Compliance in Code Generation**   
+- **<span style="color:#0b5394">[ICSE'25]</span>LiCoEval: Evaluating LLMs on License Compliance in Code Generation  <span style="color:#0b5394">(CCF A)</span>**   
     **Weiwei Xu**, Kai Gao, Hao He, and Minghui Zhou [[pdf]](https://arxiv.org/pdf/2408.02487)
   In: The 47th International Conference on Software Engineering, April 27- May 3, 2025, Ottawa, Ontario, Canada.
        
