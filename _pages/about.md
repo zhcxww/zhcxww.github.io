@@ -20,8 +20,9 @@ redirect_from:
 --------
 **Conference**
 
-- **<span style="color:#0b5394">[Arxiv'24]</span>A First Look at License Compliance Capability of LLMs in Code Generation**   
+- **<span style="color:#0b5394">[ICSE'25]</span>LiCoEval: Evaluating LLMs on License Compliance in Code Generation**   
     **Weiwei Xu**, Kai Gao, Hao He, and Minghui Zhou [[pdf]](https://arxiv.org/pdf/2408.02487)
+  In: The 47th International Conference on Software Engineering, April 27- May 3, 2025, Ottawa, Ontario, Canada.
        
 - **<span style="color:#0b5394">[FSE'24]</span>PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages <span style="color:#0b5394">(CCF A)</span>**   
     Kai Gao, **Weiwei Xu**, Wenhao Yang, and Minghui Zhou [[pdf]](https://arxiv.org/pdf/2404.16565)
