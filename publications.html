@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Weiwei Xu's Homepage</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Weiwei Xu">
+    <meta name="description" content="Weiwei Xu's Homepage">
+    <!-- <link href="css/bootstrap.css" rel="stylesheet" media="screen" /> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" media="screen,print" href="css/style.css" />
+    <style>
+        .navbar {
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .15);
+        }
+    </style>
+    <script>
+        function add_paper(title, authors, conference, rank, pdf, doi, code, data, slides, award) {
+            list_entry = "<li>"
+            list_entry += "<b>" + title + "</b><br>" + authors + "<br><i>" + conference + "</i>"
+            if (rank != null) {
+                list_entry += "<span style=\"color:#D9D8DC;float: right\">" + rank + "</span>"
+            }
+            list_entry += "<br>"
+
+            if (pdf != null) {
+                list_entry += "<a href=\"" + pdf + "\"><span class=\"badge badge-primary\">PDF</span></a>"
+            }
+
+            if (code != null) {
+                list_entry += " <a href=\"" + code + "\" class=\"badge badge-secondary\">Code</a>"
+            }
+
+            if (data != null) {
+                list_entry += " <a href=\"" + data + "\" class=\"badge badge-info\">Data</a>"
+            }
+
+            if (slides != null) {
+                list_entry += " <a href=\"" + slides + "\" class=\"badge badge-warning\">Slides</a>"
+            }
+
+            if (doi != null) {
+                list_entry += " <a href=\"" + doi + "\" class=\"badge badge-danger\">DOI</a>"
+            }
+
+            if (award != null) {
+                list_entry += " <span class=\"badge badge-success\">" + award + "</span>"
+            }
+            list_entry += "<br></li>"
+
+            document.write(list_entry)
+        }
+    </script>
+</head>
+
+<body>
+
+    <div class="navbar navbar-expand-md navbar-light sticky-top" style="background: white ;">
+        <div class="container">
+
+            <a class="navbar-brand" href="index.html">
+                <center>
+                    <span style="font-family: Georgia, 'Times New Roman', Times, serif;font-size: 28px;">Weiwei Xu</span>
+                </center>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="flase" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="publications.html">Publications <span
+                                class="sr-only">(current)</span></a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a class="nav-link" href="services.html">Services</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="awards.html">Awards</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="miscellaneous.html">Miscellaneous</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <br>
+                <ol>
+                    <script>
+                        add_paper("LiCoEval: Evaluating LLMs on License Compliance in Code Generation",
+                            "<b>Weiwei Xu</b>, Kai Gao, Hao He, Minghui Zhou",
+                            "The 47th International Conference on Software Engineering <b>(ICSE 2025)</b>",
+                            "CCF-A",
+                            "papers/ICSE25.pdf",
+                            null,
+                            null,
+                            null,
+                            "https://github.com/osslab-pku/LiCoEval",
+                            null)
+                    </script>
+                    <br>
+
+                    <script>
+                        add_paper("PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages",
+                            "Kai Gao, <b>Weiwei Xu</b>, Wenhao Yang, Minghui Zhou",
+                            "The ACM International Conference on the Foundations of Software Engineering <b>(FSE 2024)</b>",
+                            "CCF-A",
+                            "papers/FSE24.pdf",
+                            "https://doi.org/10.1145/3660822",
+                            "https://github.com/gaokai320/PyRadar",
+                            "https://figshare.com/s/e2de8520f3c97b9d73f5",
+                            "slides/FSE24.pdf",
+                            null)
+                    </script>
+                    <br>
+
+
+                    <script>
+                        add_paper("Understanding and Remediating Open-Source License Incompatibilities in the PyPI Ecosystem",
+                            "<b>Weiwei Xu</b>, Hao He, Kai Gao, Minghui Zhou",
+                            "The 38th IEEE/ACM International Conference on Automated Software Engineering <b>(ASE 2023)</b>",
+                            "CCF-A",
+                            "papers/ASE23.pdf",
+                            "https://doi.org/10.1109/ASE56229.2023.00175",
+                            "https://github.com/osslab-pku/SILENCE",
+                            "https://figshare.com/articles/dataset/Replication_Package_for_ASE_2023_Submission_Understanding_and_Remediating_Open-Source_License_Incompatibilities_in_the_PyPI_Ecosystem_/22774433?file=40463048",
+                            "slides/ASE23.pdf",)
+                    </script>
+                    <br>
+
+
+                    <script>
+                        add_paper("How Early Participation Determines Long-Term Sustained Activity in GitHub Projects?",
+                            "Wenxin Xiao, Hao He, <b>Weiwei Xu</b>, Yuxia Zhang and Minghui Zhou",
+                            "The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering <b>(ESEC/FSE 2023)</b>",
+                            "CCF-A",
+                            "papers/FSE23.pdf",
+                            "https://doi.org/10.1145/3611643.3616349",
+                            "https://zenodo.org/records/8098994")
+                    </script>
+                    <br>
+
+
+
+
+                    <script>
+                        add_paper("LicenseRec: Knowledge based Open Source License Recommendation for OSS Projects",
+                            "<b>Weiwei Xu</b>, Xin Wu, Runzhi He and Minghui Zhou",
+                            "The 45th IEEE/ACM International Conference on Software Engineering <b>(ICSE DEMO 2023)</b>",
+                            "",
+                            "papers/ICSE23_demo.pdf",
+                            "https://doi.org/10.1109/ICSE-Companion58688.2023.00050",
+                            "https://github.com/osslab-pku/RecLicense"
+                            )
+                    </script>
+                    <br>
+
+
+                    <script>
+                        add_paper("Survey on quality of software code comments (软件中代码注释质量问题研究综述)",
+                            "Chao Wang, <br>Weiwei Xu</br>, Minghui Zhou",
+                            "Journal of Software (软件学报) <b>(JOS)</b>",
+                            "",
+                            "papers/jos_codecomment.pdf",
+                            "https://doi.org/10.13328/j.cnki.jos.006944")
+                    </script>
+                    <br>
+
+                    <script>
+                        add_paper("Characterize Software Release Notes of GitHub Projects: Structure, Writing Style, and Content",
+                            "Jianyu Wu, <b>Weiwei Xu</b>, Kai Gao, Jingyue Li, Minghui Zhou",
+                            "The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering <b>(SANER 2023)</b>",
+                            "CCF-B",
+                            "papers/SANER23.pdf",
+                            "https://doi.org/10.1109/SANER56733.2023.00051",
+                            null,
+                            "https://doi.org/10.6084/m9.figshare.21383280")
+                    </script>
+                    <br>
+
+
+                    <script>
+                        add_paper("Recommending Good First Issues in GitHub OSS Projects",
+                            "Wenxin Xiao, Hao He, <br>Weiwei Xu</br>, Xin Tan , Jinhao Dong , Minghui Zhou",
+                            "The 44th International Conference on Software Engineering <b>(ICSE 2022)</b>",
+                            "CCF-A",
+                            "papers/ICSE22.pdf",
+                            "https://doi.org/10.1145/3510003.3510196",
+                            "https://zenodo.org/record/5881117#.YeliUEBBwlI")
+                    </script>
+
+
+                    <script>
+                        add_paper("Multi-granularity code smell detection using deep learning method based on abstract syntax tree",
+                            "<br>Weiwei Xu</br>, Xiaofang Zhang",
+                            "The  33rd International Conference on Software Engineering and Knowledge Engineering <b>(SEKE 2021)</b>",
+                            "CCF-C",
+                            "papers/SEKE21.pdf",
+                            "https://doi.org/10.18293/SEKE2021-014"
+                            )
+                    </script>
+                </ol>
+            </div>
+        </div>
+        <br>
+        <hr />
+        <br>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
