@@ -17,7 +17,7 @@
         }
     </style>
     <script>
-        function add_paper(title, authors, conference, rank, pdf, doi, code, data, slides, award) {
+        function add_paper(title, authors, conference, rank, pdf, doi, code, data, slides, award,tool) {
             list_entry = "<li>"
             list_entry += "<b>" + title + "</b><br>" + authors + "<br><i>" + conference + "</i>"
             if (rank != null) {
@@ -44,7 +44,9 @@
             if (doi != null) {
                 list_entry += " <a href=\"" + doi + "\" class=\"badge badge-danger\">DOI</a>"
             }
-
+            if (tool != null) {
+                list_entry += " <a href=\"" + tool + "\" class=\"badge badge-success\">Tool</a>"
+            }
             if (award != null) {
                 list_entry += " <span class=\"badge badge-success\">" + award + "</span>"
             }
@@ -134,7 +136,9 @@
                             "https://doi.org/10.1109/ASE56229.2023.00175",
                             "https://github.com/osslab-pku/SILENCE",
                             "https://figshare.com/articles/dataset/Replication_Package_for_ASE_2023_Submission_Understanding_and_Remediating_Open-Source_License_Incompatibilities_in_the_PyPI_Ecosystem_/22774433?file=40463048",
-                            "slides/ASE23.pdf",)
+                            "slides/ASE23.pdf",
+                            null,
+                            "https://licenserec.com/#/compliance")
                     </script>
                     <br>
 
@@ -162,7 +166,9 @@
                             "https://doi.org/10.1109/ICSE-Companion58688.2023.00050",
                             "https://github.com/osslab-pku/RecLicense",
                             null,
-                            "slides/ICSE23_demo.pdf")
+                            "slides/ICSE23_demo.pdf",
+                            null,
+                            "https://licenserec.com")
                             
                     </script>
                     <br>
