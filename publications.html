@@ -17,7 +17,7 @@
         }
     </style>
     <script>
-        function add_paper(title, authors, conference, rank, pdf, doi, code, data, slides, award,tool) {
+        function add_paper(title, authors, conference, rank, pdf, doi, code, data, slides, award,tool,video) {
             list_entry = "<li>"
             list_entry += "<b>" + title + "</b><br>" + authors + "<br><i>" + conference + "</i>"
             if (rank != null) {
@@ -46,6 +46,9 @@
             }
             if (tool != null) {
                 list_entry += " <a href=\"" + tool + "\" class=\"badge badge-success\">Tool</a>"
+            }
+            if (video != null) {
+                list_entry += " <a href=\"" + tool + "\" class=\"badge badge-light\">Tool</a>"
             }
             if (award != null) {
                 list_entry += " <span class=\"badge badge-success\">" + award + "</span>"
@@ -168,7 +171,8 @@
                             null,
                             "slides/ICSE23_demo.pdf",
                             null,
-                            "https://licenserec.com")
+                            "https://licenserec.com",
+                            "https://www.youtube.com/watch?v=V5sRDctkKJc&t=46s")
                             
                     </script>
                     <br>
