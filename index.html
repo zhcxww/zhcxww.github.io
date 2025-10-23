@@ -127,24 +127,16 @@
 <table align="center" style="margin: 20px auto;">
     <tr>
         <th align="center">
-            <div id="clustrmaps_globe_container" style="transform: scale(0.4); transform-origin: center; margin: -80px 0;"></div>
-            <script type="text/javascript">
-              (function(){
-                var s = document.createElement('script');
-                s.type = 'text/javascript';
-                s.async = true;
-                s.src = 'https://clustrmaps.com/globe.js?d=MjH80Jl5nOUtzD4bRmKkRDMp770B98LaW9MUYzEIaMQ';
-                s.id = 'clstr_globe';
-                var p = document.getElementsByTagName('script')[0];
-                p.parentNode.insertBefore(s, p);
-              })();
-            </script>
+            <div id="clustrmaps_globe_container" style="width:180px; height:180px; margin:auto; overflow:hidden; position:relative;">
+                <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=MjH80Jl5nOUtzD4bRmKkRDMp770B98LaW9MUYzEIaMQ"></script>
+            </div>
         </th>
     </tr>
     <tr>
         <th style="font-size: 14px; font-weight: normal;">©2025 Weiwei Xu. All rights reserved</th>
     </tr>
 </table>
+
 
 
 </body>
