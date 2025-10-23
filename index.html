@@ -122,6 +122,18 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
 
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=MjH80Jl5nOUtzD4bRmKkRDMp770B98LaW9MUYzEIaMQ"></script>
+    
+    <div id="mv-globe"></div>
+<script type="text/javascript">
+  (function(){
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = "https://mapmyvisitors.com/globe.js?d=MjH80Jl5nOUtzD4bRmKkRDMp770B98LaW9MUYzEIaMQ";
+    var x = document.getElementsByTagName("script")[0];
+    x.parentNode.insertBefore(s, x);
+  })();
+</script>
+
 </body>
 </html>
